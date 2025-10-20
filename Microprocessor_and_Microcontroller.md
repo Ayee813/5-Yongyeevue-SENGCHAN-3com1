@@ -64,7 +64,7 @@
 ## 5. 🧩 ຮູບພາບປຽບທຽບ
 
 ### Microprocessor vs Microcontroller (Diagram)
-![Comparison Diagram](https://www.hackatronic.com/wp-content/uploads/2023/11/Microcontroller-vs-Microprocessor-Difference.jpg)
+![Comparison Diagram](https://www.linquip.com/blog/wp-content/uploads/2020/12/main-Microprocessor-vs-Microcontroller_eeeproject.com_.jpg)
 
 ### Example Hardware
 ![Microprocessor CPU](https://upload.wikimedia.org/wikipedia/commons/b/b9/C4004_two_lines.jpg)
