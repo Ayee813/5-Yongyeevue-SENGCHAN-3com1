@@ -398,7 +398,7 @@
 
 ### 27. Water Sensor
 
-![Water Sensor](https://components101.com/sites/default/files/component_pin/Water-Level-Sensor-Pinout.png)
+![Water Sensor](https://lastminuteengineers.com/wp-content/uploads/arduino/v2/Water-Level-Sensor%20Hardware-Overview.jpg)
 
 **ຄວາມໝາຍ:** Sensor ກວດຈັບນ້ຳ
 
@@ -413,7 +413,7 @@
 
 ### 28. Flame Sensor
 
-![Flame Sensor](https://components101.com/sites/default/files/component_pin/Flame-Sensor-Pinout.png)
+![Flame Sensor](https://ielectrony.com/wp-content/uploads/2018/09/Flame-Sensor-Module.jpg)
 
 **ຄວາມໝາຍ:** Sensor ກວດຈັບແສງໄຟ
 
@@ -428,7 +428,7 @@
 
 ### 29. RFID Module (RC522)
 
-![RFID Module](https://components101.com/sites/default/files/component_pin/RFID-RC522-Module-Pinout.png)
+![RFID Module](https://robu.in/wp-content/uploads/2019/03/RC522-RFID-Card-Reader-Module-13.56MHz-ROBU.IN_-3.jpg)
 
 **ຄວາມໝາຍ:** Module ອ່ານບັດ RFID
 
@@ -443,7 +443,7 @@
 
 ### 30. RFID Tag/Card
 
-![RFID Card](https://www.makerguides.com/wp-content/uploads/2019/02/MFRC522-RFID-kit-featured-image-1.jpg)
+![RFID Card](https://www.amazon.in/RFID-Tag-Pair-Keychain-Card/dp/B00U4ZFGDW)
 
 **ຄວາມໝາຍ:** ບັດຫຼືແທັກ RFID
 
@@ -458,7 +458,7 @@
 
 ### 31. Infrared Receiver
 
-![IR Receiver](https://components101.com/sites/default/files/component_pin/TSOP1738-IR-Receiver-Pinout.png)
+![IR Receiver](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1S93WIHGAH2IGCL9Hz8WShtIVE8nTx8K2A&s)
 
 **ຄວາມໝາຍ:** ຕົວຮັບສັນຍານອິນຟຣາເຣດ
 
@@ -475,7 +475,7 @@
 
 ### 32. Infrared Remote Control
 
-![IR Remote](https://components101.com/sites/default/files/inline-images/IR-Remote-Control.jpg)
+![IR Remote](https://www.makerfabs.com/media/catalog/product/cache/5082619e83af502b1cf28572733576a0/i/n/infrared_remote_controller_1.jpg)
 
 **ຄວາມໝາຍ:** ລີໂມດຄວບຄຸມທາງໄກແບບອິນຟຣາເຣດ
 
@@ -505,7 +505,7 @@
 
 ### 34. 4x4 Matrix Keyboard Module
 
-![Matrix Keyboard](https://components101.com/sites/default/files/component_pin/4x4-Matrix-Keypad-Pinout.png)
+![Matrix Keyboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShk-yHie-8U39PBLgZvuLyXG2G1i1sgo192A&s)
 
 **ຄວາມໝາຍ:** ແປ້ນພິມຕາໜ່າງ 4x4 = 16 ປຸ່ມ
 
@@ -520,7 +520,7 @@
 
 ### 35. Relay Module
 
-![Relay Module](https://components101.com/sites/default/files/component_pin/5v-relay-module-pinout.png)
+![Relay Module](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI33yUn1DhdHbKBHYMZh3wgBmF7yKbeI3IlQ&s)
 
 **ຄວາມໝາຍ:** Module relay ສຳລັບຄວບຄຸມໄຟແຮງສູງ
 
@@ -537,7 +537,7 @@
 
 ### 36. Servo Motor
 
-![Servo Motor](https://components101.com/sites/default/files/component_pin/Servo-Motor-Pinout.png)
+![Servo Motor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ylLYjN9Jj_GFFlO3ryMc9iLMozbWNxFeVQ&s)
 
 **ຄວາມໝາຍ:** ມໍເຕີຫມຸນທີ່ຄວບຄຸມມຸມໄດ້
 
@@ -552,7 +552,7 @@
 
 ### 37. Stepper Motor
 
-![Stepper Motor](https://components101.com/sites/default/files/component_pin/28byj-48-Stepper-Motor-Pinout.png)
+![Stepper Motor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsDyQnrmyv2VoShV1F9-zqu0fSWAgXDvft6Q&s)
 
 **ຄວາມໝາຍ:** ມໍເຕີຫມຸນແບບກ້າວ (28BYJ-48)
 
@@ -567,7 +567,7 @@
 
 ### 38. Stepper Motor Driver Board (ULN2003)
 
-![Stepper Driver](https://components101.com/sites/default/files/component_pin/ULN2003-Module-Pinout.png)
+![Stepper Driver](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzle-q0eiJ51myJ9WsKScwVd7O9F5mgsWbXw&s)
 
 **ຄວາມໝາຍ:** Board ຂັບ stepper motor
 
@@ -584,7 +584,7 @@
 
 ### 39. Real-Time Clock Module (DS1302)
 
-![RTC DS1302](https://components101.com/sites/default/files/component_pin/DS1302-RTC-Module-Pinout.png)
+![RTC DS1302](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuiujj3LBo-GzddQu_ZpvF1mgEx6j1XP2E3A&s)
 
 **ຄວາມໝາຍ:** Module ນາຬິກາເວລາຈິງ
 
